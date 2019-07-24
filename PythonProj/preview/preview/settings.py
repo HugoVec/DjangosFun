@@ -127,3 +127,6 @@ STATICFILES_DIRS = [
 MEDIA_URL = '/media/'
 
 MEDIA_ROOT = 'mymedia'
+
+# CRUD
+

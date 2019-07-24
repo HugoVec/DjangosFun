@@ -14,5 +14,6 @@ def randPages(request):
     return render(request, 'home.html', {'rand': rand, 'pessoas': pessoas})
 
 
+
 def home_site(request):
     return HttpResponse('Ola!')

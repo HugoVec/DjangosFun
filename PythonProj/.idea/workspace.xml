@@ -2,51 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6167c8cb-ff6f-48d2-986c-b485815151ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/preview/core/templates/clients.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preview/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preview/core/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preview/core/templates/newC.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admin/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admin/options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admin/templatetags/admin_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admin/templatetags/admin_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admindocs/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admindocs/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admindocs/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admindocs/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admindocs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/admindocs/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/auth/base_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/auth/base_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/flatpages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/flatpages/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/gis/admin/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/contrib/gis/admin/widgets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/core/checks/registry.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/core/checks/registry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/core/checks/templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/core/checks/templates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/core/management/commands/makemessages.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/core/management/commands/makemessages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/core/management/templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/core/management/templates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/db/backends/base/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/db/backends/base/schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/forms/boundfield.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/forms/boundfield.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/forms/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/forms/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/forms/renderers.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/forms/renderers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/backends/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/backends/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/backends/django.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/backends/django.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/context.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/context.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/defaulttags.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/defaulttags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loader_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loader_tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/app_directories.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/app_directories.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/cached.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/cached.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/filesystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/filesystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/locmem.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/loaders/locmem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/template/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/test/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/test/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/test/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/test/testcases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/utils/html.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/utils/html.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/views/csrf.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/views/csrf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/views/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/views/debug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/views/i18n.py" beforeDir="false" afterPath="$PROJECT_DIR$/myVenv/Lib/site-packages/django/views/i18n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preview/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/preview/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preview/core/templates/clients.html" beforeDir="false" afterPath="$PROJECT_DIR$/preview/core/templates/clients.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preview/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/preview/core/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/preview/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/preview/core/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/preview/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/preview/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preview/preview/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/preview/preview/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/preview/preview/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/preview/preview/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preview/preview/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/preview/preview/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preview/core/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="323">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -69,28 +33,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preview/core/models.py">
+        <entry file="file://$PROJECT_DIR$/preview/core/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/preview/core/templates/clients.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="119">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding>
+                <element signature="e#1#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preview/mytemplates/home.html">
+        <entry file="file://$PROJECT_DIR$/preview/core/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preview/core/form.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preview/core/templates/newC.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preview/core/templates/clients.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preview/preview/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+              <folding>
+                <element signature="e#631#663#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,20 +113,22 @@
       <list>
         <option value="$PROJECT_DIR$/mystatic/style.css" />
         <option value="$PROJECT_DIR$/preview/mytemplates/home.html" />
-        <option value="$PROJECT_DIR$/preview/core/models.py" />
         <option value="$PROJECT_DIR$/preview/core/admin.py" />
         <option value="$PROJECT_DIR$/preview/preview/settings.py" />
         <option value="$PROJECT_DIR$/preview/core/url.py" />
         <option value="$PROJECT_DIR$/preview/preview/views.py" />
-        <option value="$PROJECT_DIR$/preview/preview/urls.py" />
-        <option value="$PROJECT_DIR$/preview/core/urls.py" />
         <option value="$PROJECT_DIR$/preview/core/template/clients.html" />
-        <option value="$PROJECT_DIR$/preview/core/views.py" />
+        <option value="$PROJECT_DIR$/preview/core/form.py" />
+        <option value="$PROJECT_DIR$/preview/core/models.py" />
+        <option value="$PROJECT_DIR$/preview/preview/urls.py" />
         <option value="$PROJECT_DIR$/preview/core/templates/clients.html" />
+        <option value="$PROJECT_DIR$/preview/core/urls.py" />
+        <option value="$PROJECT_DIR$/preview/core/templates/newC.html" />
+        <option value="$PROJECT_DIR$/preview/core/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -161,7 +163,8 @@
               <item name="PythonProj" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonProj" type="462c0819:PsiDirectoryNode" />
               <item name="preview" type="462c0819:PsiDirectoryNode" />
-              <item name="mytemplates" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonProj" type="b2602c69:ProjectViewProjectNode" />
@@ -220,7 +223,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.22585924" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.22585924" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
@@ -232,7 +235,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.25416037" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" weight="0.52723145" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -298,48 +301,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preview/preview/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding>
-            <element signature="e#631#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preview/core/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding>
-            <element signature="e#1#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preview/core/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/preview/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preview/preview/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preview/mytemplates/home.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -348,17 +311,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preview/core/models.py">
+    <entry file="file://$PROJECT_DIR$/preview/preview/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/preview/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preview/core/templates/clients.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/core/form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/core/templates/newC.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/core/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/core/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#1#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/core/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

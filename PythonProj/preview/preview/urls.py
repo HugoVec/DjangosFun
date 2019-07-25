@@ -20,7 +20,7 @@ from .views import randPages
 
 # LINKS CADASTRADOS
 urlpatterns = [
-    path('', randPages),
-    path('clientes/', include('core.urls')),
+    path('xd/', randPages),
+    path('', include('core.urls')),
     path('admin/', admin.site.urls),
 ]
